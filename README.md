@@ -15,6 +15,7 @@
 - The objective of the CNN model is to classify a type of cancer called Melanoma.
 - A CNN based classification model is developed.
 - To enhance the training and to avoid overfitting and class imbalances, Augmentor library is used.
+- To run this notebook, place Train and Test folders in Google Drive under folder 'Skin cancer ISIC The International Skin Imaging Collaboration'
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
